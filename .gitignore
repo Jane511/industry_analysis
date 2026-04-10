@@ -31,5 +31,13 @@ output/charts/*.png
 tmp*/
 pytest-cache-files-*/
 
-# Project data files
-data/
+# Raw/source data (do not commit)
+data/raw/
+data/source/
+data/financials/
+data/interim/
+
+# Keep handoff inputs/outputs tracked
+!data/external/
+!data/processed/
+!data/output/

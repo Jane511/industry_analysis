@@ -1,0 +1,12 @@
+region,state,region_group,property_segment,approvals_as_of_date,approvals_change_pct,approvals_momentum_pct,approvals_source_dataset,structural_segment_score
+Australia,Australia,Accommodation,Short term accommodation buildings,2026-02-01,113.70446184881926,11.452294830903732,ABS Building Approvals - Non-residential,4.2
+Australia,Australia,Agriculture,Agricultural and aquacultural buildings,2026-02-01,58.37037037037036,-10.330043099957697,ABS Building Approvals - Non-residential,3.3
+Australia,Australia,Commercial,Commercial Buildings - Total,2026-02-01,165.41579867758313,37.344771844111825,ABS Building Approvals - Non-residential,3.6
+Australia,Australia,Commercial,Offices,2026-02-01,-35.71613994612167,-64.03064293559623,ABS Building Approvals - Non-residential,4.1
+Australia,Australia,Commercial,Retail and wholesale trade buildings,2026-02-01,68.4682526776571,-17.790390355218356,ABS Building Approvals - Non-residential,3.8
+Australia,Australia,Industrial,Industrial Buildings - Total,2026-02-01,55.53198132831347,-12.338811678305229,ABS Building Approvals - Non-residential,2.8
+Australia,Australia,Industrial,Warehouses,2026-02-01,69.31762782941249,-9.065586314766872,ABS Building Approvals - Non-residential,2.4
+Australia,Australia,National aggregate,Total Non-residential,2026-02-01,71.4623487039674,3.47608161221451,ABS Building Approvals - Non-residential,3.2
+Australia,Australia,Social infrastructure,Aged care facilities,2026-02-01,219.8766202259652,-16.290888910233836,ABS Building Approvals - Non-residential,2.9
+Australia,Australia,Social infrastructure,Education buildings,2026-02-01,-21.367742757790587,-30.801536067093693,ABS Building Approvals - Non-residential,2.5
+Australia,Australia,Social infrastructure,Health buildings,2026-02-01,355.0349495312872,100.00864897777734,ABS Building Approvals - Non-residential,2.3

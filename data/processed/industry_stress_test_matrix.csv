@@ -1,0 +1,37 @@
+industry,scenario_name,base_macro_risk_score,stressed_macro_risk_score,base_industry_risk_score,stressed_industry_risk_score,stress_delta,implied_monitoring_action
+Accommodation And Food Services,Demand shock,2.6,3.1,2.68,2.91,0.23,Monitor through BAU cycle
+Accommodation And Food Services,Margin squeeze,2.6,3.05,2.68,2.89,0.21,Monitor through BAU cycle
+Accommodation And Food Services,Employment decline,2.6,3.0,2.68,2.86,0.18,Monitor through BAU cycle
+Accommodation And Food Services,Rate shock,2.6,2.95,2.68,2.84,0.16,Monitor through BAU cycle
+"Agriculture, Forestry And Fishing",Demand shock,3.2,3.7,3.5,3.73,0.23,Escalate sector review
+"Agriculture, Forestry And Fishing",Margin squeeze,3.2,3.65,3.5,3.71,0.21,Escalate sector review
+"Agriculture, Forestry And Fishing",Employment decline,3.2,3.6,3.5,3.68,0.18,Escalate sector review
+"Agriculture, Forestry And Fishing",Rate shock,3.2,3.55,3.5,3.66,0.16,Escalate sector review
+Construction,Demand shock,2.6,3.1,2.68,2.91,0.23,Monitor through BAU cycle
+Construction,Margin squeeze,2.6,3.05,2.68,2.89,0.21,Monitor through BAU cycle
+Construction,Employment decline,2.6,3.0,2.68,2.86,0.18,Monitor through BAU cycle
+Construction,Rate shock,2.6,2.95,2.68,2.84,0.16,Monitor through BAU cycle
+Health Care and Social Assistance,Demand shock,2.8,3.3,2.22,2.45,0.23,Monitor through BAU cycle
+Health Care and Social Assistance,Margin squeeze,2.8,3.25,2.22,2.43,0.21,Monitor through BAU cycle
+Health Care and Social Assistance,Employment decline,2.8,3.2,2.22,2.4,0.18,Monitor through BAU cycle
+Health Care and Social Assistance,Rate shock,2.8,3.15,2.22,2.38,0.16,Monitor through BAU cycle
+Manufacturing,Demand shock,3.2,3.7,3.5,3.73,0.23,Escalate sector review
+Manufacturing,Margin squeeze,3.2,3.65,3.5,3.71,0.21,Escalate sector review
+Manufacturing,Employment decline,3.2,3.6,3.5,3.68,0.18,Escalate sector review
+Manufacturing,Rate shock,3.2,3.55,3.5,3.66,0.16,Escalate sector review
+"Professional, Scientific And Technical Services",Demand shock,2.4,2.9,2.18,2.41,0.23,Monitor through BAU cycle
+"Professional, Scientific And Technical Services",Margin squeeze,2.4,2.85,2.18,2.38,0.2,Monitor through BAU cycle
+"Professional, Scientific And Technical Services",Employment decline,2.4,2.8,2.18,2.36,0.18,Monitor through BAU cycle
+"Professional, Scientific And Technical Services",Rate shock,2.4,2.75,2.18,2.34,0.16,Monitor through BAU cycle
+Retail Trade,Demand shock,3.2,3.7,3.23,3.45,0.22,Maintain heightened monitoring
+Retail Trade,Margin squeeze,3.2,3.65,3.23,3.43,0.2,Maintain heightened monitoring
+Retail Trade,Employment decline,3.2,3.6,3.23,3.41,0.18,Maintain heightened monitoring
+Retail Trade,Rate shock,3.2,3.55,3.23,3.39,0.16,Maintain heightened monitoring
+"Transport, Postal And Warehousing",Demand shock,2.0,2.5,2.14,2.36,0.22,Monitor through BAU cycle
+"Transport, Postal And Warehousing",Margin squeeze,2.0,2.45,2.14,2.34,0.2,Monitor through BAU cycle
+"Transport, Postal And Warehousing",Employment decline,2.0,2.4,2.14,2.32,0.18,Monitor through BAU cycle
+"Transport, Postal And Warehousing",Rate shock,2.0,2.35,2.14,2.29,0.15,Monitor through BAU cycle
+Wholesale Trade,Demand shock,3.2,3.7,3.23,3.45,0.22,Maintain heightened monitoring
+Wholesale Trade,Margin squeeze,3.2,3.65,3.23,3.43,0.2,Maintain heightened monitoring
+Wholesale Trade,Employment decline,3.2,3.6,3.23,3.41,0.18,Maintain heightened monitoring
+Wholesale Trade,Rate shock,3.2,3.55,3.23,3.39,0.16,Maintain heightened monitoring

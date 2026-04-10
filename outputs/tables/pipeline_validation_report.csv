@@ -1,0 +1,16 @@
+check_name,status,detail
+required_output::industry_risk_score_table.csv,True,present and non-empty
+required_output::benchmark_ratio_reference_table.csv,True,present and non-empty
+required_output::downturn_overlay_table.csv,True,present and non-empty
+required_output::market_softness_overlay.csv,True,present and non-empty
+required_output::concentration_support_table.csv,True,present and non-empty
+non_negative::industry_risk_score_table.csv::avg_margin,True,all values non-negative
+non_negative::industry_risk_score_table.csv::avg_utilisation,True,all values non-negative
+non_negative::industry_risk_score_table.csv::exposure,True,all values non-negative
+non_negative::benchmark_ratio_reference_table.csv::avg_margin,True,all values non-negative
+non_negative::benchmark_ratio_reference_table.csv::avg_utilisation,True,all values non-negative
+non_negative::downturn_overlay_table.csv::pd_overlay_multiplier,True,all values non-negative
+non_negative::downturn_overlay_table.csv::lgd_overlay_addon,True,all values non-negative
+non_negative::market_softness_overlay.csv::avg_utilisation,True,all values non-negative
+non_negative::market_softness_overlay.csv::avg_margin,True,all values non-negative
+non_negative::concentration_support_table.csv::exposure,True,all values non-negative

@@ -1,0 +1,5 @@
+scenario,pd_multiplier,lgd_multiplier,ccf_multiplier,property_value_haircut,notes,as_of_date
+base,1.0,1.0,1.0,0.0,Current staged environment. Anchored to a low / improving arrears backdrop and an average property-cycle softness score of 2.73.,2026-03-16
+mild,1.2,1.1,1.05,0.05,Illustrative mild downturn overlay for conservative portfolio calibration.,2026-03-16
+moderate,1.5,1.2,1.1,0.1,Illustrative moderate downturn overlay for stressed pricing and EL scenario analysis.,2026-03-16
+severe,2.0,1.3,1.2,0.2,Illustrative severe downturn overlay. Not a calibrated regulatory stress parameter.,2026-03-16

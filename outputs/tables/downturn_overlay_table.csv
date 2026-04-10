@@ -1,0 +1,7 @@
+industry,industry_risk_score,pd_overlay_multiplier,lgd_overlay_addon
+Accommodation and Food Services,5.0,1.4,0.075
+Construction,5.0,1.4,0.075
+Manufacturing,4.1138,1.3291,0.0617
+Professional Services,2.3471,1.1878,0.0352
+Retail Trade,3.9177,1.3134,0.0588
+Wholesale Trade,4.7919,1.3834,0.0719

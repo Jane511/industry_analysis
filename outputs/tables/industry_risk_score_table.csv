@@ -1,0 +1,7 @@
+industry,avg_dscr,avg_margin,avg_utilisation,exposure,facilities,industry_risk_score
+Accommodation and Food Services,1.4074,0.1246,0.875,2220000,1,5.0
+Construction,1.0508,0.0838,0.8625,742000,1,5.0
+Manufacturing,1.8723,0.1205,0.5533,1100000,1,4.1138
+Professional Services,4.9524,0.1529,0.0,285000,1,2.3471
+Retail Trade,1.6957,0.0867,0.35,420000,1,3.9177
+Wholesale Trade,1.7222,0.1192,0.8167,1040000,1,4.7919

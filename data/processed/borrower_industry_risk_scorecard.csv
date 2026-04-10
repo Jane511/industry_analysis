@@ -1,0 +1,10 @@
+borrower_name,industry,classification_risk_score,macro_risk_score,bottom_up_risk_score,final_industry_risk_score,risk_level
+"Agriculture, Forestry And Fishing Archetype","Agriculture, Forestry And Fishing",3.75,3.2,2.33,3.09,Elevated
+Manufacturing Archetype,Manufacturing,3.75,3.2,2.33,3.09,Elevated
+Retail Trade Archetype,Retail Trade,3.25,3.2,2.33,2.91,Medium
+Wholesale Trade Archetype,Wholesale Trade,3.25,3.2,2.33,2.91,Medium
+Accommodation And Food Services Archetype,Accommodation And Food Services,2.75,2.6,2.33,2.56,Medium
+Construction Archetype,Construction,2.75,2.6,2.33,2.56,Medium
+Health Care & Social Assistance Archetype,Health Care and Social Assistance,1.75,2.8,2.33,2.27,Medium
+"Professional, Scientific And Technical Services Archetype","Professional, Scientific And Technical Services",2.0,2.4,2.33,2.24,Medium
+"Transport, Postal And Warehousing Archetype","Transport, Postal And Warehousing",2.25,2.0,2.33,2.2,Medium

@@ -1,0 +1,7 @@
+industry,exposure,facilities,portfolio_share,concentration_flag
+Accommodation and Food Services,2220000,1,0.3823,review
+Construction,742000,1,0.1278,within_demo_limit
+Manufacturing,1100000,1,0.1894,within_demo_limit
+Professional Services,285000,1,0.0491,within_demo_limit
+Retail Trade,420000,1,0.0723,within_demo_limit
+Wholesale Trade,1040000,1,0.1791,within_demo_limit

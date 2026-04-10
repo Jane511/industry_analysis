@@ -1,0 +1,7 @@
+dataset,staged,note
+ABS Building Approvals - Non-residential,True,Primary staged raw file used for the current reference-layer build.
+ABS Building Activity extract,False,Not staged. Approvals trend used as the temporary cycle proxy.
+ABS Lending Indicators extract,False,Not staged. Cash-rate backdrop used as the temporary finance proxy.
+RBA F1 cash-rate table,True,Used for the arrears-environment macro backdrop and finance proxy.
+RBA housing arrears context extract,False,Not staged. Default qualitative arrears baseline is used.
+APRA property context extract,False,Not staged. APRA commentary is currently absent from the local build.
