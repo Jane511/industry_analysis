@@ -1,4 +1,4 @@
-# Methodology - industry_analysis
+# Methodology - industry-analysis
 
 1. Load or generate synthetic demo data.
 2. Standardise borrower, facility, exposure, collateral, and financial fields.

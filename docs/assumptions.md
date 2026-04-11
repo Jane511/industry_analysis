@@ -1,4 +1,4 @@
-# Assumptions - industry_analysis
+# Assumptions - industry-analysis
 
 - Uses synthetic sample records only.
 - Does not rely on hidden internal data, sibling paths, or local Windows paths.

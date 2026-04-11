@@ -1,4 +1,4 @@
-# Data Dictionary - industry_analysis
+# Data Dictionary - industry-analysis
 
 | Field | Description |
 | --- | --- |

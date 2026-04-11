@@ -1,10 +1,10 @@
-# Project Overview - industry_analysis
+# Project Overview - industry-analysis
 
 This folder has been rebuilt around a clean README, docs, notebooks, modular Python pipeline, sample outputs, and validation checks.
 
 ## Portfolio role
 
-industry_analysis is the Australian industry-risk and macro-overlay engine.
+`industry-analysis` is the Australian industry-risk and macro-overlay engine.
 
 ## Rebuilt deliverables
 

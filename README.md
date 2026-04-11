@@ -1,4 +1,4 @@
-# industry_analysis
+# industry-analysis
 
 ## What this repo is
 
@@ -11,10 +11,10 @@ Upstream inputs:
 - synthetic portfolio exposure mix
 
 Downstream consumers:
-- PD-and-Scorecard-Cashflow-Lending
-- LGD-Cashflow-and-Property-Lending
-- Stress-Testing-Credit-Portfolio
-- Risk-Based-Pricing-Credit
+- `PD-and-scorecard-commercial`
+- `LGD-commercial`
+- `stress-testing-commercial`
+- `RAROC-pricing-and-return-hurdle`
 
 ## Inputs
 
